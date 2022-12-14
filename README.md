@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prog-cy&label=Profile%20views&color=0e75b6&style=flat" alt="prog-cy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prog-cy" alt="prog-cy" /></a> </p>
 
 - 🌱 I’m currently learning **Android Application Developement**
 
