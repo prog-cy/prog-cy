@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="700" src="https://media.tenor.com/G61A9zcJgVYAAAAd/android-developer.gif"> 
+<img align="right" width="1000" height="500" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"> 
 <h1 align="center">Hi 👋, I'm Rupesh Kumar Dwivedi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif">
