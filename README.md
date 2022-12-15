@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/in/rupesh-kumar-dwivedi-373660193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rupesh-kumar-dwivedi-373660193" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rupesh_2021" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rupesh_2021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rupesh_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rupesh_code" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/rupeshdwived3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rupeshdwived3941" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rupeshdwived3941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rupeshdwived3941" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/caza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="caza" height="30" width="40" /></a>
 </p>
 
